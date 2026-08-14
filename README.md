@@ -1,9 +1,5 @@
 # App de Finanças
 
-## Descrição
-
-Este projeto foi desenvolvido em Python para a disciplina da faculdade.
-
 O programa permite:
 
 - Registrar lançamentos de receitas e despesas;
